@@ -1,6 +1,6 @@
 # Mountain Game Games
  Games!!!
- https://parkerlabs0.github.io/mountain-games/
+ https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibExYR2VBVFVSWVZHT1NYK0JXMG9OZWU4MzdHRzc4TnlJODRMT0EzYWJGTVFycUxQaEVVS2VDSi92VTFnaFdlakRndmNXQXBJU0UrWTBzajBpUT09IiwiaCI6IlBhcmtlciBsYWJzIiwicyI6Ii9EM0ZRTjhhejEycEc1MDFFUm5jUnc9PSIsImkiOiJYS21KRTAyRUgxTXhyeS9ZIn0=
 ## New Games
 Suggest a new game [here](https://mountain658.github.io/suggestions.html).
 ## Authors and acknowledgments
